@@ -18,7 +18,7 @@ To run the simulations and reproduce the paper's figures, you need Python 3.8+ a
 
 Clone the repository and install the dependencies via pip:
 
-git clone [https://github.com/yourusername/amortized-inference-censored-data.git](https://github.com/yourusername/amortized-inference-censored-data.git)
+git clone [https://github.com/yourusername/amortized-inference-censored-data.git](https://github.com/aidin0082/amortized-inference-censored-data.git)
 cd amortized-inference-censored-data
 pip install -r requirements.txt
 
