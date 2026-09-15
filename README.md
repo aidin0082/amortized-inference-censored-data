@@ -29,14 +29,7 @@ pip install -r requirements.txt
 
 The entire pipeline (data generation, model training, Monte Carlo simulation, real-data analysis, and plotting) is unified in a single script. The classic Lieblein & Zelen (1956) ball bearing dataset is included directly within the code.
 
-Simply execute the script or run the Jupyter Notebook:
-
-python main_simulation.py
-
-*(If you are using a Jupyter Notebook, simply "Restart & Run All".)*
-
-**Outputs Generated:**
-Upon completion, the script will automatically generate and save all CSV data tables and publication-quality figures (`fig1` to `fig4`) directly to your working directory.
+Simply execute the script or run the Jupyter Notebook.
 
 ## 📝 Citation
 
